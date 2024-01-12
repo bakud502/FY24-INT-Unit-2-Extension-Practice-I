@@ -1,0 +1,58 @@
+/* 4. Select the div with the class 'blossom' and use the background-color property to make the background color 'salmon' */
+
+
+
+/* 5. Select the div with the class 'bubbles' and use the background-color property to make the background color 'deep sky blue' */
+
+
+
+/* 6. Select the div with the class 'buttercup' and use the background-color property to make the background color 'lime green' */
+
+
+
+
+.containers{
+  border: black;
+  /* 7. Lastly, in the space below, turn on flexbox for this div by using the display property. Then, use the justify-content property to put space-around the containters! */
+  
+
+  
+}
+
+
+
+/* don't change the code below this comment! */
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div{
+  border: 5px solid white;
+  padding: 50px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+img{
+  width: 150 px;
+}
+
+h1{
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Brush Script MT', cursive;
+  color: #fff1f0;
+  text-shadow: 5px 5px salmon ;
+}
+
+body{
+  background-color: black;
+}
+
+h2{
+   font-size: 50px;
+  font-family: 'Brush Script MT', cursive;
+  color: white;
+}
